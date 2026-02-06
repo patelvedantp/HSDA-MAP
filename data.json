@@ -35,20 +35,6 @@
     "Timestamp (EST)": "2024-09-02T17:06:26Z"
   },
   {
-    "Zip code": "50131",
-    "City": "Johnston",
-    "ChapterLeaderName": "Aravind Balaji",
-    "ChapterName": "Johnston Young Democrats",
-    "Timestamp (EST)": "2024-06-29T16:03:53Z"
-  },
-  {
-    "Zip code": "53212",
-    "City": "Milwaukee",
-    "ChapterLeaderName": "Avana Kelly",
-    "ChapterName": "Milwaukee Chapter",
-    "Timestamp (EST)": "2024-09-08T23:21:24Z"
-  },
-  {
     "Zip code": "85258",
     "City": "Scottsdale",
     "ChapterLeaderName": "Jesmina deGuzman ",
@@ -63,11 +49,25 @@
     "Timestamp (EST)": "2024-08-15T16:11:42Z"
   },
   {
+    "Zip code": "50131",
+    "City": "Johnston",
+    "ChapterLeaderName": "Aravind Balaji",
+    "ChapterName": "Johnston Young Democrats",
+    "Timestamp (EST)": "2024-06-29T16:03:53Z"
+  },
+  {
     "Zip code": "N/A",
     "City": "N/A",
     "ChapterLeaderName": "Ben Varner",
     "ChapterName": "HS Dems of Pewaukee",
     "Timestamp (EST)": "2024-07-02T18:06:17Z"
+  },
+  {
+    "Zip code": "53212",
+    "City": "Milwaukee",
+    "ChapterLeaderName": "Avana Kelly",
+    "ChapterName": "Milwaukee Chapter",
+    "Timestamp (EST)": "2024-09-08T23:21:24Z"
   },
   {
     "Zip code": "94566",
@@ -84,11 +84,11 @@
     "Timestamp (EST)": "2024-07-07T05:44:37Z"
   },
   {
-    "Zip code": "94539",
-    "City": "Fremont",
-    "ChapterLeaderName": "Gavia Grewal",
-    "ChapterName": "East Bay High School Democrats",
-    "Timestamp (EST)": "2024-07-08T04:48:22Z"
+    "Zip code": "17033",
+    "City": "Hershey",
+    "ChapterLeaderName": "Claire DiGiovanna",
+    "ChapterName": "Hershey High School",
+    "Timestamp (EST)": "2024-07-10T18:56:53Z"
   },
   {
     "Zip code": "70065",
@@ -98,11 +98,11 @@
     "Timestamp (EST)": "2024-07-14T20:41:05Z"
   },
   {
-    "Zip code": "17033",
-    "City": "Hershey",
-    "ChapterLeaderName": "Claire DiGiovanna",
-    "ChapterName": "Hershey High School",
-    "Timestamp (EST)": "2024-07-10T18:56:53Z"
+    "Zip code": "94539",
+    "City": "Fremont",
+    "ChapterLeaderName": "Gavia Grewal",
+    "ChapterName": "East Bay High School Democrats",
+    "Timestamp (EST)": "2024-07-08T04:48:22Z"
   },
   {
     "Zip code": "63146",
@@ -119,11 +119,11 @@
     "Timestamp (EST)": "2024-08-01T00:35:55Z"
   },
   {
-    "Zip code": "37377",
-    "City": "Signal Mountain, Tennessee",
-    "ChapterLeaderName": "Taylor Bray",
-    "ChapterName": "Signal Mountain High School Democrats",
-    "Timestamp (EST)": "2025-09-04T01:46:40Z"
+    "Zip code": "37215",
+    "City": "Nashville",
+    "ChapterLeaderName": "Jacob Francy",
+    "ChapterName": "Davidson County High School Democrats",
+    "Timestamp (EST)": "2024-07-26T00:29:14Z"
   },
   {
     "Zip code": "02186",
@@ -133,18 +133,11 @@
     "Timestamp (EST)": "2024-07-25T13:01:08Z"
   },
   {
-    "Zip code": "37215",
-    "City": "Nashville",
-    "ChapterLeaderName": "Jacob Francy",
-    "ChapterName": "Davidson County High School Democrats",
-    "Timestamp (EST)": "2024-07-26T00:29:14Z"
-  },
-  {
-    "Zip code": "N/A",
-    "City": "N/A",
-    "ChapterLeaderName": "N/A",
-    "ChapterName": "N/A",
-    "Timestamp (EST)": "2024-09-01T14:20:59Z"
+    "Zip code": "37377",
+    "City": "Signal Mountain, Tennessee",
+    "ChapterLeaderName": "Taylor Bray",
+    "ChapterName": "Signal Mountain High School Democrats",
+    "Timestamp (EST)": "2025-09-04T01:46:40Z"
   },
   {
     "Zip code": "37203",
@@ -152,6 +145,13 @@
     "ChapterLeaderName": "Eliot Watson",
     "ChapterName": "Hume-Fogg High School Democrats ",
     "Timestamp (EST)": "2024-07-26T01:14:14Z"
+  },
+  {
+    "Zip code": "N/A",
+    "City": "N/A",
+    "ChapterLeaderName": "N/A",
+    "ChapterName": "N/A",
+    "Timestamp (EST)": "2024-09-01T14:20:59Z"
   },
   {
     "Zip code": "N/A",
@@ -175,6 +175,13 @@
     "Timestamp (EST)": "2024-07-28T18:24:39Z"
   },
   {
+    "Zip code": "95133",
+    "City": "San Jose",
+    "ChapterLeaderName": "Angelly Nguyen",
+    "ChapterName": "KIPP San Jose Collegiate High School Democrats",
+    "Timestamp (EST)": "2024-07-29T01:56:39Z"
+  },
+  {
     "Zip code": "28269",
     "City": "Charlotte",
     "ChapterLeaderName": "Eshan Korat",
@@ -196,13 +203,6 @@
     "Timestamp (EST)": "2024-08-25T13:13:04Z"
   },
   {
-    "Zip code": "95133",
-    "City": "San Jose",
-    "ChapterLeaderName": "Angelly Nguyen",
-    "ChapterName": "KIPP San Jose Collegiate High School Democrats",
-    "Timestamp (EST)": "2024-07-29T01:56:39Z"
-  },
-  {
     "Zip code": "48104",
     "City": "Ann Arbor",
     "ChapterLeaderName": "Zara Lin",
@@ -215,13 +215,6 @@
     "ChapterLeaderName": "N/A",
     "ChapterName": "N/A",
     "Timestamp (EST)": "2024-07-30T23:22:54Z"
-  },
-  {
-    "Zip code": "73120",
-    "City": "Oklahoma City",
-    "ChapterLeaderName": "Nick Hickman",
-    "ChapterName": "High School Democrats of Oklahoma",
-    "Timestamp (EST)": "2024-08-02T01:18:38Z"
   },
   {
     "Zip code": "95765",
@@ -252,6 +245,13 @@
     "Timestamp (EST)": "2024-08-10T02:40:57Z"
   },
   {
+    "Zip code": "73120",
+    "City": "Oklahoma City",
+    "ChapterLeaderName": "Nick Hickman",
+    "ChapterName": "High School Democrats of Oklahoma",
+    "Timestamp (EST)": "2024-08-02T01:18:38Z"
+  },
+  {
     "Zip code": "08820",
     "City": "Edison",
     "ChapterLeaderName": "Disha Varkala",
@@ -259,18 +259,18 @@
     "Timestamp (EST)": "2024-08-13T03:54:29Z"
   },
   {
-    "Zip code": "07094",
-    "City": "Secaucus",
-    "ChapterLeaderName": "Shashwath Inamdar",
-    "ChapterName": "Secaucus HSDA",
-    "Timestamp (EST)": "2024-08-14T21:00:18Z"
-  },
-  {
     "Zip code": "96789",
     "City": "Mililani",
     "ChapterLeaderName": "Sofia Belhaj",
     "ChapterName": "Mililani HS Dems- Elderly Care Homes",
     "Timestamp (EST)": "2024-08-16T05:56:15Z"
+  },
+  {
+    "Zip code": "07094",
+    "City": "Secaucus",
+    "ChapterLeaderName": "Shashwath Inamdar",
+    "ChapterName": "Secaucus HSDA",
+    "Timestamp (EST)": "2024-08-14T21:00:18Z"
   },
   {
     "Zip code": "20181",
@@ -287,18 +287,18 @@
     "Timestamp (EST)": "2024-08-19T02:49:34Z"
   },
   {
-    "Zip code": "07039-4706",
-    "City": "Livingston",
-    "ChapterLeaderName": "Saanvi Kulkarni",
-    "ChapterName": "Livingston High School Democrats",
-    "Timestamp (EST)": "2024-10-03T03:14:36Z"
-  },
-  {
     "Zip code": "19460",
     "City": "Phoenixville",
     "ChapterLeaderName": "Gabriel Rossi Gross",
     "ChapterName": "Gender and Sexuality Alliance",
     "Timestamp (EST)": "2024-08-19T23:14:56Z"
+  },
+  {
+    "Zip code": "07039-4706",
+    "City": "Livingston",
+    "ChapterLeaderName": "Saanvi Kulkarni",
+    "ChapterName": "Livingston High School Democrats",
+    "Timestamp (EST)": "2024-10-03T03:14:36Z"
   },
   {
     "Zip code": "97068",
@@ -322,6 +322,13 @@
     "Timestamp (EST)": "2024-08-24T08:38:19Z"
   },
   {
+    "Zip code": "30318",
+    "City": "Atlanta",
+    "ChapterLeaderName": "Ismini Vasiloglou",
+    "ChapterName": "Westminster High School Democrats",
+    "Timestamp (EST)": "2024-08-26T19:48:15Z"
+  },
+  {
     "Zip code": "N/A",
     "City": "N/A",
     "ChapterLeaderName": "N/A",
@@ -334,13 +341,6 @@
     "ChapterLeaderName": "Sahil Kochhar",
     "ChapterName": "East Brunswick HS Democrats",
     "Timestamp (EST)": "2024-08-26T19:47:52Z"
-  },
-  {
-    "Zip code": "30318",
-    "City": "Atlanta",
-    "ChapterLeaderName": "Ismini Vasiloglou",
-    "ChapterName": "Westminster High School Democrats",
-    "Timestamp (EST)": "2024-08-26T19:48:15Z"
   },
   {
     "Zip code": "33179",
@@ -385,18 +385,18 @@
     "Timestamp (EST)": "2024-09-03T18:20:43Z"
   },
   {
-    "Zip code": "N/A",
-    "City": "N/A",
-    "ChapterLeaderName": "Dev C",
-    "ChapterName": "Providence Chapter",
-    "Timestamp (EST)": "2024-09-03T22:12:31Z"
-  },
-  {
     "Zip code": "63146",
     "City": "St. Louis",
     "ChapterLeaderName": "Ray Rao",
     "ChapterName": "Parkway North High School Civics Club",
     "Timestamp (EST)": "2024-09-03T19:09:00Z"
+  },
+  {
+    "Zip code": "N/A",
+    "City": "N/A",
+    "ChapterLeaderName": "Dev C",
+    "ChapterName": "Providence Chapter",
+    "Timestamp (EST)": "2024-09-03T22:12:31Z"
   },
   {
     "Zip code": "80129",
@@ -462,13 +462,6 @@
     "Timestamp (EST)": "2024-09-08T23:25:30Z"
   },
   {
-    "Zip code": "54304",
-    "City": "Green Bay",
-    "ChapterLeaderName": "Cassi Garrison",
-    "ChapterName": "Green Bay Chapter",
-    "Timestamp (EST)": "2024-09-08T23:26:19Z"
-  },
-  {
     "Zip code": "54235",
     "City": "Sturgeon Bay",
     "ChapterLeaderName": "Isabella Hodowana",
@@ -497,6 +490,20 @@
     "Timestamp (EST)": "2024-09-08T23:30:07Z"
   },
   {
+    "Zip code": "54304",
+    "City": "Green Bay",
+    "ChapterLeaderName": "Cassi Garrison",
+    "ChapterName": "Green Bay Chapter",
+    "Timestamp (EST)": "2024-09-08T23:26:19Z"
+  },
+  {
+    "Zip code": "95628",
+    "City": "Fair Oaks",
+    "ChapterLeaderName": "Nate",
+    "ChapterName": "Bella Vista High School HSDA",
+    "Timestamp (EST)": "2024-09-09T20:05:18Z"
+  },
+  {
     "Zip code": "N/A",
     "City": "Philadelphia",
     "ChapterLeaderName": "N/A",
@@ -509,13 +516,6 @@
     "ChapterLeaderName": "Maia Rose Fishman Miller",
     "ChapterName": "Hellgate HSDA",
     "Timestamp (EST)": "2024-09-11T03:45:56Z"
-  },
-  {
-    "Zip code": "95628",
-    "City": "Fair Oaks",
-    "ChapterLeaderName": "Nate",
-    "ChapterName": "Bella Vista High School HSDA",
-    "Timestamp (EST)": "2024-09-09T20:05:18Z"
   },
   {
     "Zip code": "91214",
@@ -532,13 +532,6 @@
     "Timestamp (EST)": "2024-09-11T04:06:53Z"
   },
   {
-    "Zip code": "19023",
-    "City": "Collingdale ",
-    "ChapterLeaderName": "Keyarra Barley ",
-    "ChapterName": "Academy Park Young Democrats ",
-    "Timestamp (EST)": "2025-03-11T04:29:00Z"
-  },
-  {
     "Zip code": "93003",
     "City": "Ventura",
     "ChapterLeaderName": "Santanah Schnizler",
@@ -551,6 +544,13 @@
     "ChapterLeaderName": "Sydney Huynh",
     "ChapterName": "South Orange County Chapter",
     "Timestamp (EST)": "2024-09-14T20:58:42Z"
+  },
+  {
+    "Zip code": "19023",
+    "City": "Collingdale ",
+    "ChapterLeaderName": "Keyarra Barley ",
+    "ChapterName": "Academy Park Young Democrats ",
+    "Timestamp (EST)": "2025-03-11T04:29:00Z"
   },
   {
     "Zip code": "10306",
@@ -630,18 +630,18 @@
     "Timestamp (EST)": "2024-10-02T16:13:34Z"
   },
   {
-    "Zip code": "92037",
-    "City": "San Diego",
-    "ChapterLeaderName": "Jacob Schneider",
-    "ChapterName": "La Jolla High School (LJHS) Democrats",
-    "Timestamp (EST)": "2024-10-03T06:34:41Z"
-  },
-  {
     "Zip code": "49036",
     "City": "Coldwater",
     "ChapterLeaderName": "Dominick Roney",
     "ChapterName": "Coldwater Senior High School ",
     "Timestamp (EST)": "2024-10-03T00:21:45Z"
+  },
+  {
+    "Zip code": "92037",
+    "City": "San Diego",
+    "ChapterLeaderName": "Jacob Schneider",
+    "ChapterName": "La Jolla High School (LJHS) Democrats",
+    "Timestamp (EST)": "2024-10-03T06:34:41Z"
   },
   {
     "Zip code": "59501",
@@ -651,18 +651,18 @@
     "Timestamp (EST)": "2024-10-04T15:30:30Z"
   },
   {
-    "Zip code": "08648",
-    "City": "Lawrenceville",
-    "ChapterLeaderName": "Ben Maughan",
-    "ChapterName": "The Lawrenceville School Young Democrats",
-    "Timestamp (EST)": "2024-10-04T18:04:04Z"
-  },
-  {
     "Zip code": "94707-1814",
     "City": "Berkeley",
     "ChapterLeaderName": "Saya Jameson",
     "ChapterName": "Berkeley High School Democrats",
     "Timestamp (EST)": "2024-10-06T19:52:57Z"
+  },
+  {
+    "Zip code": "08648",
+    "City": "Lawrenceville",
+    "ChapterLeaderName": "Ben Maughan",
+    "ChapterName": "The Lawrenceville School Young Democrats",
+    "Timestamp (EST)": "2024-10-04T18:04:04Z"
   },
   {
     "Zip code": "07041",
@@ -686,13 +686,6 @@
     "Timestamp (EST)": "2024-10-08T04:55:01Z"
   },
   {
-    "Zip code": "25314",
-    "City": "Charleston",
-    "ChapterLeaderName": "Reese Lovern",
-    "ChapterName": "Capital High School Chapter",
-    "Timestamp (EST)": "2024-10-10T12:40:22Z"
-  },
-  {
     "Zip code": "77346",
     "City": "Humble",
     "ChapterLeaderName": "Aryan Sundaram",
@@ -700,11 +693,11 @@
     "Timestamp (EST)": "2024-10-15T00:54:24Z"
   },
   {
-    "Zip code": "11355",
-    "City": "Queens",
-    "ChapterLeaderName": "Jin Park",
-    "ChapterName": "Queens",
-    "Timestamp (EST)": "2024-10-17T02:01:57Z"
+    "Zip code": "25314",
+    "City": "Charleston",
+    "ChapterLeaderName": "Reese Lovern",
+    "ChapterName": "Capital High School Chapter",
+    "Timestamp (EST)": "2024-10-10T12:40:22Z"
   },
   {
     "Zip code": "10522",
@@ -721,11 +714,18 @@
     "Timestamp (EST)": "2024-10-17T03:01:34Z"
   },
   {
-    "Zip code": "96796",
-    "City": "Waimea",
-    "ChapterLeaderName": "Brysten Nagamine",
-    "ChapterName": "Kaua'i High School Democrats",
-    "Timestamp (EST)": "2024-12-12T04:25:58Z"
+    "Zip code": "11355",
+    "City": "Queens",
+    "ChapterLeaderName": "Jin Park",
+    "ChapterName": "Queens",
+    "Timestamp (EST)": "2024-10-17T02:01:57Z"
+  },
+  {
+    "Zip code": "11201",
+    "City": "New York",
+    "ChapterLeaderName": "Anna Hunt ",
+    "ChapterName": "Beacon High School Democrats",
+    "Timestamp (EST)": "2024-10-21T00:56:37Z"
   },
   {
     "Zip code": "94588",
@@ -733,6 +733,13 @@
     "ChapterLeaderName": "Swastik Sengupta",
     "ChapterName": "High School Democrats ",
     "Timestamp (EST)": "2024-11-01T01:32:46Z"
+  },
+  {
+    "Zip code": "96796",
+    "City": "Waimea",
+    "ChapterLeaderName": "Brysten Nagamine",
+    "ChapterName": "Kaua'i High School Democrats",
+    "Timestamp (EST)": "2024-12-12T04:25:58Z"
   },
   {
     "Zip code": "93003",
@@ -747,13 +754,6 @@
     "ChapterLeaderName": "Tanmayee Choudary Gudi",
     "ChapterName": "Macomb County High School Democrats ",
     "Timestamp (EST)": "2024-11-06T21:51:13Z"
-  },
-  {
-    "Zip code": "11201",
-    "City": "New York",
-    "ChapterLeaderName": "Anna Hunt ",
-    "ChapterName": "Beacon High School Democrats",
-    "Timestamp (EST)": "2024-10-21T00:56:37Z"
   },
   {
     "Zip code": "94587",
@@ -777,13 +777,6 @@
     "Timestamp (EST)": "2024-11-08T17:31:47Z"
   },
   {
-    "Zip code": "97301",
-    "City": "Salem",
-    "ChapterLeaderName": "Aliza Stapleton",
-    "ChapterName": "NSHS Democrats ",
-    "Timestamp (EST)": "2024-11-14T19:49:46Z"
-  },
-  {
     "Zip code": "30097",
     "City": "Johns Creek",
     "ChapterLeaderName": "Edwin Tang",
@@ -791,11 +784,11 @@
     "Timestamp (EST)": "2024-11-17T18:06:20Z"
   },
   {
-    "Zip code": "07480",
-    "City": "West Milford",
-    "ChapterLeaderName": "Tara Lucarello",
-    "ChapterName": "HSDEMS West Milford Chapter",
-    "Timestamp (EST)": "2024-11-18T21:15:14Z"
+    "Zip code": "97301",
+    "City": "Salem",
+    "ChapterLeaderName": "Aliza Stapleton",
+    "ChapterName": "NSHS Democrats ",
+    "Timestamp (EST)": "2024-11-14T19:49:46Z"
   },
   {
     "Zip code": "59404",
@@ -803,6 +796,13 @@
     "ChapterLeaderName": "Justin Teter",
     "ChapterName": "Great Falls High School Democrats",
     "Timestamp (EST)": "2024-11-20T22:11:42Z"
+  },
+  {
+    "Zip code": "07480",
+    "City": "West Milford",
+    "ChapterLeaderName": "Tara Lucarello",
+    "ChapterName": "HSDEMS West Milford Chapter",
+    "Timestamp (EST)": "2024-11-18T21:15:14Z"
   },
   {
     "Zip code": "78717",
@@ -819,13 +819,6 @@
     "Timestamp (EST)": "2026-01-01T23:06:26Z"
   },
   {
-    "Zip code": "28704",
-    "City": "Arden",
-    "ChapterLeaderName": "Luke Groth",
-    "ChapterName": "TC Roberson Dems Super Poltics Best USA",
-    "Timestamp (EST)": "2024-12-05T20:31:13Z"
-  },
-  {
     "Zip code": "60618",
     "City": "Chicago",
     "ChapterLeaderName": "Arlo Heltzer",
@@ -833,18 +826,25 @@
     "Timestamp (EST)": "2024-11-24T20:32:58Z"
   },
   {
-    "Zip code": "30809",
-    "City": "Evans",
-    "ChapterLeaderName": "Willow Ober",
-    "ChapterName": "YDA Greenbrier Highschool",
-    "Timestamp (EST)": "2024-12-06T14:11:20Z"
-  },
-  {
     "Zip code": "27502",
     "City": "Apex",
     "ChapterLeaderName": "Caden Evans",
     "ChapterName": "Apex High School Democrats of America",
     "Timestamp (EST)": "2024-12-06T03:22:35Z"
+  },
+  {
+    "Zip code": "28704",
+    "City": "Arden",
+    "ChapterLeaderName": "Luke Groth",
+    "ChapterName": "TC Roberson Dems Super Poltics Best USA",
+    "Timestamp (EST)": "2024-12-05T20:31:13Z"
+  },
+  {
+    "Zip code": "30809",
+    "City": "Evans",
+    "ChapterLeaderName": "Willow Ober",
+    "ChapterName": "YDA Greenbrier Highschool",
+    "Timestamp (EST)": "2024-12-06T14:11:20Z"
   },
   {
     "Zip code": "36301",
@@ -861,18 +861,18 @@
     "Timestamp (EST)": "2025-03-13T17:47:02Z"
   },
   {
-    "Zip code": "60618",
-    "City": "Chicago",
-    "ChapterLeaderName": "Verónica Motawi",
-    "ChapterName": "Chicago High School Democrats",
-    "Timestamp (EST)": "2024-12-12T21:39:41Z"
-  },
-  {
     "Zip code": "21236",
     "City": "Nottingham",
     "ChapterLeaderName": "Jaden Beals",
     "ChapterName": "Perry Hall Democratic Club ",
     "Timestamp (EST)": "2024-12-13T00:04:49Z"
+  },
+  {
+    "Zip code": "60618",
+    "City": "Chicago",
+    "ChapterLeaderName": "Verónica Motawi",
+    "ChapterName": "Chicago High School Democrats",
+    "Timestamp (EST)": "2024-12-12T21:39:41Z"
   },
   {
     "Zip code": "95661",
@@ -882,18 +882,18 @@
     "Timestamp (EST)": "2024-12-19T01:33:36Z"
   },
   {
-    "Zip code": "32205",
-    "City": "Jacksonville",
-    "ChapterLeaderName": "Vincent Barragan",
-    "ChapterName": "Jacksonville High School Democrats",
-    "Timestamp (EST)": "2025-01-13T23:12:49Z"
-  },
-  {
     "Zip code": "59901",
     "City": "Kalispell",
     "ChapterLeaderName": "Badge Busse",
     "ChapterName": "Flathead High School Dems",
     "Timestamp (EST)": "2024-12-25T03:00:12Z"
+  },
+  {
+    "Zip code": "32205",
+    "City": "Jacksonville",
+    "ChapterLeaderName": "Vincent Barragan",
+    "ChapterName": "Jacksonville High School Democrats",
+    "Timestamp (EST)": "2025-01-13T23:12:49Z"
   },
   {
     "Zip code": "75019",
@@ -910,18 +910,18 @@
     "Timestamp (EST)": "2024-12-31T15:49:41Z"
   },
   {
-    "Zip code": "60061",
-    "City": "Vernon Hills",
-    "ChapterLeaderName": "Ashva Ramesh",
-    "ChapterName": "Lake County HSDA",
-    "Timestamp (EST)": "2025-01-03T07:55:31Z"
-  },
-  {
     "Zip code": "19057",
     "City": "Levittown",
     "ChapterLeaderName": "Payge Engle/Gracie Fink-Peralta",
     "ChapterName": "Truman High School Democrats",
     "Timestamp (EST)": "2025-01-02T17:53:48Z"
+  },
+  {
+    "Zip code": "60061",
+    "City": "Vernon Hills",
+    "ChapterLeaderName": "Ashva Ramesh",
+    "ChapterName": "Lake County HSDA",
+    "Timestamp (EST)": "2025-01-03T07:55:31Z"
   },
   {
     "Zip code": "20854",
@@ -938,11 +938,11 @@
     "Timestamp (EST)": "2025-01-05T03:20:16Z"
   },
   {
-    "Zip code": "94501",
-    "City": "Alameda",
-    "ChapterLeaderName": "Mateo Guimet-Keeney",
-    "ChapterName": "Alameda Young Democrats",
-    "Timestamp (EST)": "2025-01-10T16:54:48Z"
+    "Zip code": "38671",
+    "City": "Southaven ",
+    "ChapterLeaderName": "Tyler Crawford ",
+    "ChapterName": "High school democrats of Mississippi ",
+    "Timestamp (EST)": "2025-01-09T02:03:27Z"
   },
   {
     "Zip code": "47401",
@@ -952,11 +952,11 @@
     "Timestamp (EST)": "2025-01-05T20:50:52Z"
   },
   {
-    "Zip code": "38671",
-    "City": "Southaven ",
-    "ChapterLeaderName": "Tyler Crawford ",
-    "ChapterName": "High school democrats of Mississippi ",
-    "Timestamp (EST)": "2025-01-09T02:03:27Z"
+    "Zip code": "94501",
+    "City": "Alameda",
+    "ChapterLeaderName": "Mateo Guimet-Keeney",
+    "ChapterName": "Alameda Young Democrats",
+    "Timestamp (EST)": "2025-01-10T16:54:48Z"
   },
   {
     "Zip code": "17837",
@@ -973,18 +973,18 @@
     "Timestamp (EST)": "2025-01-15T16:38:09Z"
   },
   {
-    "Zip code": "60067",
-    "City": "Palatine",
-    "ChapterLeaderName": "Junya Liu",
-    "ChapterName": "Cook County High School Democrats",
-    "Timestamp (EST)": "2025-01-17T02:35:09Z"
-  },
-  {
     "Zip code": "81623",
     "City": "Carbondale",
     "ChapterLeaderName": "Nicholas Ingram",
     "ChapterName": "Colorado Rocky Mountain School",
     "Timestamp (EST)": "2025-01-18T04:30:47Z"
+  },
+  {
+    "Zip code": "60067",
+    "City": "Palatine",
+    "ChapterLeaderName": "Junya Liu",
+    "ChapterName": "Cook County High School Democrats",
+    "Timestamp (EST)": "2025-01-17T02:35:09Z"
   },
   {
     "Zip code": "75013",
@@ -1036,6 +1036,13 @@
     "Timestamp (EST)": "2025-08-26T00:21:39Z"
   },
   {
+    "Zip code": "5315",
+    "City": "Oak Creek",
+    "ChapterLeaderName": "Kaliope Morgan",
+    "ChapterName": "Oak Creek Chapter",
+    "Timestamp (EST)": "2025-03-03T23:47:38Z"
+  },
+  {
     "Zip code": "89138",
     "City": "Las Vegas",
     "ChapterLeaderName": "Josiah Abercrombie",
@@ -1057,13 +1064,6 @@
     "Timestamp (EST)": "2025-02-18T22:30:19Z"
   },
   {
-    "Zip code": "5315",
-    "City": "Oak Creek",
-    "ChapterLeaderName": "Kaliope Morgan",
-    "ChapterName": "Oak Creek Chapter",
-    "Timestamp (EST)": "2025-03-03T23:47:38Z"
-  },
-  {
     "Zip code": "53024",
     "City": "grafton",
     "ChapterLeaderName": "ethan poulos",
@@ -1078,18 +1078,18 @@
     "Timestamp (EST)": "2025-02-22T00:31:09Z"
   },
   {
-    "Zip code": "64131",
-    "City": "Kansas City",
-    "ChapterLeaderName": "Dwayne Irvin",
-    "ChapterName": "KC HSDA",
-    "Timestamp (EST)": "2025-02-22T02:23:51Z"
-  },
-  {
     "Zip code": "30327",
     "City": "Atlanta ",
     "ChapterLeaderName": "Eliana Gerbi",
     "ChapterName": "Holy Innocents' High School Democrats",
     "Timestamp (EST)": "2025-02-24T02:54:29Z"
+  },
+  {
+    "Zip code": "64131",
+    "City": "Kansas City",
+    "ChapterLeaderName": "Dwayne Irvin",
+    "ChapterName": "KC HSDA",
+    "Timestamp (EST)": "2025-02-22T02:23:51Z"
   },
   {
     "Zip code": "07041",
@@ -1120,18 +1120,18 @@
     "Timestamp (EST)": "2025-03-03T23:50:35Z"
   },
   {
-    "Zip code": "02359",
-    "City": "Pembroke",
-    "ChapterLeaderName": "Lorcan Finnigan",
-    "ChapterName": "Young Democrats Club",
-    "Timestamp (EST)": "2025-03-13T00:58:07Z"
-  },
-  {
     "Zip code": "75048",
     "City": "Sachse",
     "ChapterLeaderName": "Haroon",
     "ChapterName": "Wylie High school Democrats of America",
     "Timestamp (EST)": "2025-06-02T22:03:39Z"
+  },
+  {
+    "Zip code": "02359",
+    "City": "Pembroke",
+    "ChapterLeaderName": "Lorcan Finnigan",
+    "ChapterName": "Young Democrats Club",
+    "Timestamp (EST)": "2025-03-13T00:58:07Z"
   },
   {
     "Zip code": "N/A",
@@ -1183,18 +1183,18 @@
     "Timestamp (EST)": "2025-04-16T13:14:35Z"
   },
   {
-    "Zip code": "48073",
-    "City": "Royal oak",
-    "ChapterLeaderName": "Owen Krueger",
-    "ChapterName": "Royal Oak High School Democrats",
-    "Timestamp (EST)": "2025-04-18T17:21:54Z"
-  },
-  {
     "Zip code": "92835",
     "City": "Fullerton",
     "ChapterLeaderName": "Delilah Yick",
     "ChapterName": "HSDA of PYL",
     "Timestamp (EST)": "2025-04-17T02:12:35Z"
+  },
+  {
+    "Zip code": "48073",
+    "City": "Royal oak",
+    "ChapterLeaderName": "Owen Krueger",
+    "ChapterName": "Royal Oak High School Democrats",
+    "Timestamp (EST)": "2025-04-18T17:21:54Z"
   },
   {
     "Zip code": "92806",
@@ -1211,18 +1211,18 @@
     "Timestamp (EST)": "2025-04-20T05:34:00Z"
   },
   {
-    "Zip code": "20904",
-    "City": "Silver Spring",
-    "ChapterLeaderName": "Jack Bentley",
-    "ChapterName": "Springbrook Young Democrats",
-    "Timestamp (EST)": "2025-04-25T16:18:59Z"
-  },
-  {
     "Zip code": "95747",
     "City": "Roseville",
     "ChapterLeaderName": "Mykola Klymenko",
     "ChapterName": "West Park High Democrats",
     "Timestamp (EST)": "2025-04-24T03:17:39Z"
+  },
+  {
+    "Zip code": "20904",
+    "City": "Silver Spring",
+    "ChapterLeaderName": "Jack Bentley",
+    "ChapterName": "Springbrook Young Democrats",
+    "Timestamp (EST)": "2025-04-25T16:18:59Z"
   },
   {
     "Zip code": "71801",
@@ -1246,18 +1246,18 @@
     "Timestamp (EST)": "2025-05-03T06:21:40Z"
   },
   {
-    "Zip code": "89128",
-    "City": "Las Vegas",
-    "ChapterLeaderName": "Malachi Wiafe",
-    "ChapterName": "Clark High School Democrats of America",
-    "Timestamp (EST)": "2025-10-26T21:02:37Z"
-  },
-  {
     "Zip code": "55720",
     "City": "Cloquet",
     "ChapterLeaderName": "Liam Reeves",
     "ChapterName": "Carlton County High School Democrats",
     "Timestamp (EST)": "2025-05-06T16:33:28Z"
+  },
+  {
+    "Zip code": "89128",
+    "City": "Las Vegas",
+    "ChapterLeaderName": "Malachi Wiafe",
+    "ChapterName": "Clark High School Democrats of America",
+    "Timestamp (EST)": "2025-10-26T21:02:37Z"
   },
   {
     "Zip code": "44135",
@@ -1288,18 +1288,18 @@
     "Timestamp (EST)": "2025-06-04T03:25:25Z"
   },
   {
-    "Zip code": "55923",
-    "City": "Chatfield ",
-    "ChapterLeaderName": "Makayla Anderson ",
-    "ChapterName": "HSDA Rochester",
-    "Timestamp (EST)": "2025-06-26T18:37:04Z"
-  },
-  {
     "Zip code": "39157",
     "City": "Ridgeland",
     "ChapterLeaderName": "Ariel Bell",
     "ChapterName": "Highschool Democrats of Hinds County",
     "Timestamp (EST)": "2025-06-14T03:01:18Z"
+  },
+  {
+    "Zip code": "55923",
+    "City": "Chatfield ",
+    "ChapterLeaderName": "Makayla Anderson ",
+    "ChapterName": "HSDA Rochester",
+    "Timestamp (EST)": "2025-06-26T18:37:04Z"
   },
   {
     "Zip code": "N/A",
@@ -1351,18 +1351,18 @@
     "Timestamp (EST)": "2025-06-24T01:24:57Z"
   },
   {
-    "Zip code": "77386",
-    "City": "Spring",
-    "ChapterLeaderName": "Christian Cerda",
-    "ChapterName": "Montgomery County High School Democrats ",
-    "Timestamp (EST)": "2025-06-27T21:35:48Z"
-  },
-  {
     "Zip code": "33897",
     "City": "Davenport",
     "ChapterLeaderName": "Luciel Ballesteros Henriquez",
     "ChapterName": "Polk County High School Democrats",
     "Timestamp (EST)": "2025-06-26T22:38:57Z"
+  },
+  {
+    "Zip code": "77386",
+    "City": "Spring",
+    "ChapterLeaderName": "Christian Cerda",
+    "ChapterName": "Montgomery County High School Democrats ",
+    "Timestamp (EST)": "2025-06-27T21:35:48Z"
   },
   {
     "Zip code": "75013",
@@ -1379,18 +1379,18 @@
     "Timestamp (EST)": "2025-09-16T00:23:54Z"
   },
   {
-    "Zip code": "32806-6333",
-    "City": "Orlando",
-    "ChapterLeaderName": "Brady Graham",
-    "ChapterName": "Boone High School",
-    "Timestamp (EST)": "2025-07-07T17:16:05Z"
-  },
-  {
     "Zip code": "60505-4236",
     "City": "Aurora",
     "ChapterLeaderName": "Ricardo Herrera Melendez",
     "ChapterName": "Kane-DuPage High School Democrats",
     "Timestamp (EST)": "2025-07-04T20:04:11Z"
+  },
+  {
+    "Zip code": "32806-6333",
+    "City": "Orlando",
+    "ChapterLeaderName": "Brady Graham",
+    "ChapterName": "Boone High School",
+    "Timestamp (EST)": "2025-07-07T17:16:05Z"
   },
   {
     "Zip code": "21136",
@@ -1414,18 +1414,18 @@
     "Timestamp (EST)": "2025-07-12T01:22:53Z"
   },
   {
-    "Zip code": "44236",
-    "City": "Hudson",
-    "ChapterLeaderName": "Josh Carter",
-    "ChapterName": "Hudson High School Young Democrats ",
-    "Timestamp (EST)": "2025-11-14T18:50:29Z"
-  },
-  {
     "Zip code": "07974",
     "City": "New Providence",
     "ChapterLeaderName": "Sohan Saggar & Sofia Gallo-Mora",
     "ChapterName": "Union County High School Democrats",
     "Timestamp (EST)": "2025-07-20T19:27:24Z"
+  },
+  {
+    "Zip code": "44236",
+    "City": "Hudson",
+    "ChapterLeaderName": "Josh Carter",
+    "ChapterName": "Hudson High School Young Democrats ",
+    "Timestamp (EST)": "2025-11-14T18:50:29Z"
   },
   {
     "Zip code": "21740",
@@ -1442,6 +1442,13 @@
     "Timestamp (EST)": "2025-07-25T17:25:56Z"
   },
   {
+    "Zip code": "08820",
+    "City": "Edison",
+    "ChapterLeaderName": "Hartaj Singh",
+    "ChapterName": "Middlesex County Chapter",
+    "Timestamp (EST)": "2025-08-01T00:32:07Z"
+  },
+  {
     "Zip code": "75024",
     "City": "Plano",
     "ChapterLeaderName": "Nitya Ajjampudi",
@@ -1454,13 +1461,6 @@
     "ChapterLeaderName": "Mia Popovich",
     "ChapterName": "Richmond Hill High School Democrats",
     "Timestamp (EST)": "2025-08-05T14:23:55Z"
-  },
-  {
-    "Zip code": "08820",
-    "City": "Edison",
-    "ChapterLeaderName": "Hartaj Singh",
-    "ChapterName": "Middlesex County Chapter",
-    "Timestamp (EST)": "2025-08-01T00:32:07Z"
   },
   {
     "Zip code": "87113",
@@ -1491,18 +1491,18 @@
     "Timestamp (EST)": "2025-08-11T14:46:06Z"
   },
   {
-    "Zip code": "20148",
-    "City": "Ashburn",
-    "ChapterLeaderName": "Samarth Chenumolu",
-    "ChapterName": "Loudoun County",
-    "Timestamp (EST)": "2025-08-12T15:59:49Z"
-  },
-  {
     "Zip code": "06804",
     "City": "Brookfield",
     "ChapterLeaderName": "Allison Tran",
     "ChapterName": "Fairfield County High School Democrats",
     "Timestamp (EST)": "2025-08-11T21:03:49Z"
+  },
+  {
+    "Zip code": "20148",
+    "City": "Ashburn",
+    "ChapterLeaderName": "Samarth Chenumolu",
+    "ChapterName": "Loudoun County",
+    "Timestamp (EST)": "2025-08-12T15:59:49Z"
   },
   {
     "Zip code": "91377",
@@ -1526,6 +1526,13 @@
     "Timestamp (EST)": "2025-08-18T00:49:34Z"
   },
   {
+    "Zip code": "72764",
+    "City": "Springdale",
+    "ChapterLeaderName": "Kinley Wallis",
+    "ChapterName": "Don Tyson School of Innovation",
+    "Timestamp (EST)": "2025-08-20T16:38:00Z"
+  },
+  {
     "Zip code": "27519",
     "City": "Cary",
     "ChapterLeaderName": "Varnika Ravivarma",
@@ -1540,25 +1547,11 @@
     "Timestamp (EST)": "2025-08-25T12:51:02Z"
   },
   {
-    "Zip code": "72764",
-    "City": "Springdale",
-    "ChapterLeaderName": "Kinley Wallis",
-    "ChapterName": "Don Tyson School of Innovation",
-    "Timestamp (EST)": "2025-08-20T16:38:00Z"
-  },
-  {
     "Zip code": "53097",
     "City": "Mequon",
     "ChapterLeaderName": "Connor Pronovost",
     "ChapterName": "The Ozaukee County High School Democrats",
     "Timestamp (EST)": "2025-08-25T22:33:40Z"
-  },
-  {
-    "Zip code": "83706",
-    "City": "Boise",
-    "ChapterLeaderName": "Holden Gonzales",
-    "ChapterName": "High School Democrats of Timberline",
-    "Timestamp (EST)": "2025-08-27T20:28:16Z"
   },
   {
     "Zip code": "53534",
@@ -1568,18 +1561,11 @@
     "Timestamp (EST)": "2025-08-26T00:32:29Z"
   },
   {
-    "Zip code": "37934",
-    "City": "Knoxville",
-    "ChapterLeaderName": "Sophia Chen",
-    "ChapterName": "Knox County High School Democrats",
-    "Timestamp (EST)": "2025-11-14T05:22:13Z"
-  },
-  {
-    "Zip code": "45429",
-    "City": "Kettering",
-    "ChapterLeaderName": "George Baldree",
-    "ChapterName": "Montgomery County High School Democrats",
-    "Timestamp (EST)": "2025-08-30T17:40:33Z"
+    "Zip code": "83706",
+    "City": "Boise",
+    "ChapterLeaderName": "Holden Gonzales",
+    "ChapterName": "High School Democrats of Timberline",
+    "Timestamp (EST)": "2025-08-27T20:28:16Z"
   },
   {
     "Zip code": "95126",
@@ -1589,11 +1575,11 @@
     "Timestamp (EST)": "2025-08-26T19:47:15Z"
   },
   {
-    "Zip code": "24015",
-    "City": "Roanoke",
-    "ChapterLeaderName": "Miriam Lee",
-    "ChapterName": "Patrick Henry High School Democrats ",
-    "Timestamp (EST)": "2026-01-01T23:18:09Z"
+    "Zip code": "45429",
+    "City": "Kettering",
+    "ChapterLeaderName": "George Baldree",
+    "ChapterName": "Montgomery County High School Democrats",
+    "Timestamp (EST)": "2025-08-30T17:40:33Z"
   },
   {
     "Zip code": "93401",
@@ -1603,11 +1589,25 @@
     "Timestamp (EST)": "2025-09-05T21:20:44Z"
   },
   {
+    "Zip code": "37934",
+    "City": "Knoxville",
+    "ChapterLeaderName": "Sophia Chen",
+    "ChapterName": "Knox County High School Democrats",
+    "Timestamp (EST)": "2025-11-14T05:22:13Z"
+  },
+  {
     "Zip code": "43054",
     "City": "Columbus",
     "ChapterLeaderName": "Harun Siddiqui",
     "ChapterName": "Franklin County High School Democrats",
     "Timestamp (EST)": "2025-09-07T16:08:40Z"
+  },
+  {
+    "Zip code": "24015",
+    "City": "Roanoke",
+    "ChapterLeaderName": "Miriam Lee",
+    "ChapterName": "Patrick Henry High School Democrats ",
+    "Timestamp (EST)": "2026-01-01T23:18:09Z"
   },
   {
     "Zip code": "28704",
@@ -1617,13 +1617,6 @@
     "Timestamp (EST)": "2025-09-08T18:10:15Z"
   },
   {
-    "Zip code": "64153",
-    "City": "Kansas City",
-    "ChapterLeaderName": "Lauren Criswell & Ali Bray",
-    "ChapterName": "Park Hill High School Young Democrats",
-    "Timestamp (EST)": "2025-09-09T13:40:57Z"
-  },
-  {
     "Zip code": "98006",
     "City": "Bellevue",
     "ChapterLeaderName": "Max Kumar",
@@ -1631,11 +1624,25 @@
     "Timestamp (EST)": "2025-09-09T20:30:37Z"
   },
   {
+    "Zip code": "64153",
+    "City": "Kansas City",
+    "ChapterLeaderName": "Lauren Criswell & Ali Bray",
+    "ChapterName": "Park Hill High School Young Democrats",
+    "Timestamp (EST)": "2025-09-09T13:40:57Z"
+  },
+  {
     "Zip code": "63124",
     "City": "Saint Louis",
     "ChapterLeaderName": "Henry Madden",
     "ChapterName": "Young Democrats of Ladue ",
     "Timestamp (EST)": "2025-09-10T03:58:53Z"
+  },
+  {
+    "Zip code": "59901",
+    "City": "Kalispell",
+    "ChapterLeaderName": "Joshua Lee",
+    "ChapterName": "Glacier High School Dems",
+    "Timestamp (EST)": "2025-09-10T17:49:01Z"
   },
   {
     "Zip code": "74017-4915",
@@ -1652,11 +1659,11 @@
     "Timestamp (EST)": "2025-09-13T02:12:37Z"
   },
   {
-    "Zip code": "59901",
-    "City": "Kalispell",
-    "ChapterLeaderName": "Joshua Lee",
-    "ChapterName": "Glacier High School Dems",
-    "Timestamp (EST)": "2025-09-10T17:49:01Z"
+    "Zip code": "02459",
+    "City": "Newton",
+    "ChapterLeaderName": "Boston Bulis",
+    "ChapterName": "Newton South High School Democrats",
+    "Timestamp (EST)": "2025-09-16T20:41:42Z"
   },
   {
     "Zip code": "59601",
@@ -1664,13 +1671,6 @@
     "ChapterLeaderName": "Grey Simpson",
     "ChapterName": "Capital High School",
     "Timestamp (EST)": "2025-09-16T02:14:31Z"
-  },
-  {
-    "Zip code": "02459",
-    "City": "Newton",
-    "ChapterLeaderName": "Boston Bulis",
-    "ChapterName": "Newton South High School Democrats",
-    "Timestamp (EST)": "2025-09-16T20:41:42Z"
   },
   {
     "Zip code": "32259",
@@ -1694,18 +1694,18 @@
     "Timestamp (EST)": "2025-09-20T02:28:59Z"
   },
   {
-    "Zip code": "59601",
-    "City": "Helena",
-    "ChapterLeaderName": "Nora Dwyer",
-    "ChapterName": "Helena High - DASH",
-    "Timestamp (EST)": "2025-09-21T23:21:12Z"
-  },
-  {
     "Zip code": "48103",
     "City": "Ann Arbor",
     "ChapterLeaderName": "Tova Weiss",
     "ChapterName": "PiHi Democrats",
     "Timestamp (EST)": "2025-09-22T18:45:10Z"
+  },
+  {
+    "Zip code": "59601",
+    "City": "Helena",
+    "ChapterLeaderName": "Nora Dwyer",
+    "ChapterName": "Helena High - DASH",
+    "Timestamp (EST)": "2025-09-21T23:21:12Z"
   },
   {
     "Zip code": "19104",
@@ -1715,13 +1715,6 @@
     "Timestamp (EST)": "2025-09-24T02:56:49Z"
   },
   {
-    "Zip code": "54538",
-    "City": "Lac Du Flambeau",
-    "ChapterLeaderName": "Jett Day",
-    "ChapterName": "Lakeland High School Democrats",
-    "Timestamp (EST)": "2025-09-25T21:31:21Z"
-  },
-  {
     "Zip code": "02026 ",
     "City": "Dedham ",
     "ChapterLeaderName": "Lauren Peloquin ",
@@ -1729,11 +1722,11 @@
     "Timestamp (EST)": "2025-09-24T11:21:05Z"
   },
   {
-    "Zip code": "34119",
-    "City": "Naples",
-    "ChapterLeaderName": "Will Gomez",
-    "ChapterName": "High School Democrats of Gulf Coast High School",
-    "Timestamp (EST)": "2025-10-02T22:49:13Z"
+    "Zip code": "54538",
+    "City": "Lac Du Flambeau",
+    "ChapterLeaderName": "Jett Day",
+    "ChapterName": "Lakeland High School Democrats",
+    "Timestamp (EST)": "2025-09-25T21:31:21Z"
   },
   {
     "Zip code": "90266",
@@ -1743,6 +1736,13 @@
     "Timestamp (EST)": "2025-10-02T23:41:44Z"
   },
   {
+    "Zip code": "78373",
+    "City": "Port Aransas",
+    "ChapterLeaderName": "Jhostin",
+    "ChapterName": "Port Aransas Democratic Front for America ",
+    "Timestamp (EST)": "2025-10-03T23:34:06Z"
+  },
+  {
     "Zip code": "02186",
     "City": "Milton",
     "ChapterLeaderName": "Rhys Adams",
@@ -1750,18 +1750,18 @@
     "Timestamp (EST)": "2025-10-03T02:26:19Z"
   },
   {
+    "Zip code": "34119",
+    "City": "Naples",
+    "ChapterLeaderName": "Will Gomez",
+    "ChapterName": "High School Democrats of Gulf Coast High School",
+    "Timestamp (EST)": "2025-10-02T22:49:13Z"
+  },
+  {
     "Zip code": "90275",
     "City": "Rolling Hills Estates",
     "ChapterLeaderName": "Timothy Liu",
     "ChapterName": "Peninsula Dems",
     "Timestamp (EST)": "2025-10-06T07:02:32Z"
-  },
-  {
-    "Zip code": "78373",
-    "City": "Port Aransas",
-    "ChapterLeaderName": "Jhostin",
-    "ChapterName": "Port Aransas Democratic Front for America ",
-    "Timestamp (EST)": "2025-10-03T23:34:06Z"
   },
   {
     "Zip code": "19063",
@@ -1785,13 +1785,6 @@
     "Timestamp (EST)": "2025-10-10T14:53:17Z"
   },
   {
-    "Zip code": "36879",
-    "City": "Auburn",
-    "ChapterLeaderName": "Elizabeth Smoot",
-    "ChapterName": "Auburn High School Democrats",
-    "Timestamp (EST)": "2025-10-12T17:38:43Z"
-  },
-  {
     "Zip code": "51546",
     "City": "Logan",
     "ChapterLeaderName": "Samuel Stone",
@@ -1799,11 +1792,11 @@
     "Timestamp (EST)": "2026-01-07T05:14:29Z"
   },
   {
-    "Zip code": "07305",
-    "City": "Jersey City",
-    "ChapterLeaderName": "Carlos Pineda",
-    "ChapterName": "Jersey City High School Democrats",
-    "Timestamp (EST)": "2025-10-13T13:06:01Z"
+    "Zip code": "36879",
+    "City": "Auburn",
+    "ChapterLeaderName": "Elizabeth Smoot",
+    "ChapterName": "Auburn High School Democrats",
+    "Timestamp (EST)": "2025-10-12T17:38:43Z"
   },
   {
     "Zip code": "80831",
@@ -1841,6 +1834,13 @@
     "Timestamp (EST)": "2025-10-20T19:59:57Z"
   },
   {
+    "Zip code": "07305",
+    "City": "Jersey City",
+    "ChapterLeaderName": "Carlos Pineda",
+    "ChapterName": "Jersey City High School Democrats",
+    "Timestamp (EST)": "2025-10-13T13:06:01Z"
+  },
+  {
     "Zip code": "33486",
     "City": "Boca Raton",
     "ChapterLeaderName": "Ella Meyerson",
@@ -1876,6 +1876,13 @@
     "Timestamp (EST)": "2026-01-01T23:16:27Z"
   },
   {
+    "Zip code": "54915",
+    "City": "Appleton",
+    "ChapterLeaderName": "William Quick",
+    "ChapterName": "Appleton East High School Democrats",
+    "Timestamp (EST)": "2025-10-24T14:01:11Z"
+  },
+  {
     "Zip code": "N/A",
     "City": "N/A",
     "ChapterLeaderName": "Sneha Kunwor",
@@ -1890,11 +1897,11 @@
     "Timestamp (EST)": "2025-10-24T16:35:07Z"
   },
   {
-    "Zip code": "54915",
-    "City": "Appleton",
-    "ChapterLeaderName": "William Quick",
-    "ChapterName": "Appleton East High School Democrats",
-    "Timestamp (EST)": "2025-10-24T14:01:11Z"
+    "Zip code": "27501",
+    "City": "Angier",
+    "ChapterLeaderName": "Shirley Coello Ladino ",
+    "ChapterName": "Harnett Central High School",
+    "Timestamp (EST)": "2025-10-30T13:21:39Z"
   },
   {
     "Zip code": "22102",
@@ -1904,11 +1911,11 @@
     "Timestamp (EST)": "2025-10-26T01:55:26Z"
   },
   {
-    "Zip code": "27501",
-    "City": "Angier",
-    "ChapterLeaderName": "Shirley Coello Ladino ",
-    "ChapterName": "Harnett Central High School",
-    "Timestamp (EST)": "2025-10-30T13:21:39Z"
+    "Zip code": "17013",
+    "City": "Carlisle",
+    "ChapterLeaderName": "Landon Spence",
+    "ChapterName": "Cumberland County High School Democrats",
+    "Timestamp (EST)": "2025-11-04T18:17:39Z"
   },
   {
     "Zip code": "41701",
@@ -1925,13 +1932,6 @@
     "Timestamp (EST)": "2025-11-04T18:40:55Z"
   },
   {
-    "Zip code": "17013",
-    "City": "Carlisle",
-    "ChapterLeaderName": "Landon Spence",
-    "ChapterName": "Cumberland County High School Democrats",
-    "Timestamp (EST)": "2025-11-04T18:17:39Z"
-  },
-  {
     "Zip code": "34787",
     "City": "winter garden",
     "ChapterLeaderName": "Peyton Brown",
@@ -1939,18 +1939,18 @@
     "Timestamp (EST)": "2025-11-07T20:12:29Z"
   },
   {
-    "Zip code": "N/A",
-    "City": "N/A",
-    "ChapterLeaderName": "Shane Fowler",
-    "ChapterName": "Eaton County High School Democrats",
-    "Timestamp (EST)": "2025-11-10T03:24:01Z"
-  },
-  {
     "Zip code": "76310",
     "City": "Wichita Falls ",
     "ChapterLeaderName": "Joseph Adair ",
     "ChapterName": "Wichita County High School Democrats ",
     "Timestamp (EST)": "2025-11-08T19:41:52Z"
+  },
+  {
+    "Zip code": "N/A",
+    "City": "N/A",
+    "ChapterLeaderName": "Shane Fowler",
+    "ChapterName": "Eaton County High School Democrats",
+    "Timestamp (EST)": "2025-11-10T03:24:01Z"
   },
   {
     "Zip code": "54660",
@@ -2002,18 +2002,18 @@
     "Timestamp (EST)": "2025-11-15T22:26:03Z"
   },
   {
-    "Zip code": "65202",
-    "City": "Columbia",
-    "ChapterLeaderName": "Gannon Seyer",
-    "ChapterName": "Boone County High School Democrats",
-    "Timestamp (EST)": "2025-11-16T18:50:27Z"
-  },
-  {
     "Zip code": "46032",
     "City": "Carmel",
     "ChapterLeaderName": "Jack McNally",
     "ChapterName": "Carmel Young Progressives",
     "Timestamp (EST)": "2025-11-18T21:23:22Z"
+  },
+  {
+    "Zip code": "65202",
+    "City": "Columbia",
+    "ChapterLeaderName": "Gannon Seyer",
+    "ChapterName": "Boone County High School Democrats",
+    "Timestamp (EST)": "2025-11-16T18:50:27Z"
   },
   {
     "Zip code": "23455",
@@ -2037,13 +2037,6 @@
     "Timestamp (EST)": "2025-11-21T17:26:44Z"
   },
   {
-    "Zip code": "45040",
-    "City": "Mason",
-    "ChapterLeaderName": "Ananya Vinod Kumar",
-    "ChapterName": "HSDA Southwest Ohio",
-    "Timestamp (EST)": "2025-12-22T20:21:27Z"
-  },
-  {
     "Zip code": "17225",
     "City": "Greencastle",
     "ChapterLeaderName": "Elayna Hamm",
@@ -2058,6 +2051,13 @@
     "Timestamp (EST)": "2025-11-25T14:49:07Z"
   },
   {
+    "Zip code": "45040",
+    "City": "Mason",
+    "ChapterLeaderName": "Ananya Vinod Kumar",
+    "ChapterName": "HSDA Southwest Ohio",
+    "Timestamp (EST)": "2025-12-22T20:21:27Z"
+  },
+  {
     "Zip code": "93304",
     "City": "Bakersfield",
     "ChapterLeaderName": "Taylor Coote",
@@ -2065,18 +2065,18 @@
     "Timestamp (EST)": "2025-11-25T15:23:26Z"
   },
   {
-    "Zip code": "48827",
-    "City": "Eaton Rapids",
-    "ChapterLeaderName": "Shane Fowler",
-    "ChapterName": "Eaton County High School Democrats ",
-    "Timestamp (EST)": "2025-11-25T16:01:35Z"
-  },
-  {
     "Zip code": "48374",
     "City": "Novi",
     "ChapterLeaderName": "Nikki Rohmetra ",
     "ChapterName": "City of Novi Chapter ",
     "Timestamp (EST)": "2025-11-28T03:14:34Z"
+  },
+  {
+    "Zip code": "48827",
+    "City": "Eaton Rapids",
+    "ChapterLeaderName": "Shane Fowler",
+    "ChapterName": "Eaton County High School Democrats ",
+    "Timestamp (EST)": "2025-11-25T16:01:35Z"
   },
   {
     "Zip code": "96720",
@@ -2100,18 +2100,18 @@
     "Timestamp (EST)": "2025-12-02T23:49:57Z"
   },
   {
-    "Zip code": "89702",
-    "City": "Carson City",
-    "ChapterLeaderName": "Kyle Allen",
-    "ChapterName": "Carson High School Democrats of America",
-    "Timestamp (EST)": "2025-12-22T20:44:11Z"
-  },
-  {
     "Zip code": "30736",
     "City": "Ringgold",
     "ChapterLeaderName": "Kaitlyn Sullivan",
     "ChapterName": "Young Democrats of America at Heritage High School",
     "Timestamp (EST)": "2025-12-03T17:07:41Z"
+  },
+  {
+    "Zip code": "89702",
+    "City": "Carson City",
+    "ChapterLeaderName": "Kyle Allen",
+    "ChapterName": "Carson High School Democrats of America",
+    "Timestamp (EST)": "2025-12-22T20:44:11Z"
   },
   {
     "Zip code": "28731",
@@ -2170,18 +2170,18 @@
     "Timestamp (EST)": "2025-12-12T16:05:55Z"
   },
   {
-    "Zip code": "21207",
-    "City": "Woodlawn",
-    "ChapterLeaderName": "Kevon Burnett",
-    "ChapterName": "Woodlawn Dems",
-    "Timestamp (EST)": "2025-12-14T16:36:18Z"
-  },
-  {
     "Zip code": "11545",
     "City": "Glen Head",
     "ChapterLeaderName": "Tony-JunLin Pan",
     "ChapterName": "Nassau County High School Democrats",
     "Timestamp (EST)": "2025-12-18T00:26:53Z"
+  },
+  {
+    "Zip code": "21207",
+    "City": "Woodlawn",
+    "ChapterLeaderName": "Kevon Burnett",
+    "ChapterName": "Woodlawn Dems",
+    "Timestamp (EST)": "2025-12-14T16:36:18Z"
   },
   {
     "Zip code": "37604",
@@ -2191,13 +2191,6 @@
     "Timestamp (EST)": "2025-12-19T14:46:09Z"
   },
   {
-    "Zip code": "02452",
-    "City": "Waltham",
-    "ChapterLeaderName": "Jonah Rabinovitch",
-    "ChapterName": "Gann Academy",
-    "Timestamp (EST)": "2025-12-21T02:51:58Z"
-  },
-  {
     "Zip code": "11552",
     "City": "West Hempstead",
     "ChapterLeaderName": "Harry Barningham",
@@ -2205,11 +2198,11 @@
     "Timestamp (EST)": "2025-12-19T20:35:21Z"
   },
   {
-    "Zip code": "40059",
-    "City": "Goshen",
-    "ChapterLeaderName": "Evan Wheeler",
-    "ChapterName": "North Oldham High School Young Democrats Club",
-    "Timestamp (EST)": "2025-12-21T04:06:07Z"
+    "Zip code": "02452",
+    "City": "Waltham",
+    "ChapterLeaderName": "Jonah Rabinovitch",
+    "ChapterName": "Gann Academy",
+    "Timestamp (EST)": "2025-12-21T02:51:58Z"
   },
   {
     "Zip code": "33558",
@@ -2217,6 +2210,13 @@
     "ChapterLeaderName": "Kaushik Katta",
     "ChapterName": "Tampa Chapter ",
     "Timestamp (EST)": "2025-12-21T05:17:46Z"
+  },
+  {
+    "Zip code": "40059",
+    "City": "Goshen",
+    "ChapterLeaderName": "Evan Wheeler",
+    "ChapterName": "North Oldham High School Young Democrats Club",
+    "Timestamp (EST)": "2025-12-21T04:06:07Z"
   },
   {
     "Zip code": "60490",
@@ -2263,13 +2263,6 @@
   {
     "Zip code": "N/A",
     "City": "N/A",
-    "ChapterLeaderName": "Newt Shosteck\t",
-    "ChapterName": "Hayfield High School Democrats",
-    "Timestamp (EST)": "2026-01-01T23:09:49Z"
-  },
-  {
-    "Zip code": "N/A",
-    "City": "N/A",
     "ChapterLeaderName": "Bijan Zoghi",
     "ChapterName": "Meridian High School Democrats",
     "Timestamp (EST)": "2026-01-01T23:08:49Z"
@@ -2277,9 +2270,9 @@
   {
     "Zip code": "N/A",
     "City": "N/A",
-    "ChapterLeaderName": "Gretchen Schmitt\t",
-    "ChapterName": "James Madison High School Democrats",
-    "Timestamp (EST)": "2026-01-01T23:10:34Z"
+    "ChapterLeaderName": "Newt Shosteck\t",
+    "ChapterName": "Hayfield High School Democrats",
+    "Timestamp (EST)": "2026-01-01T23:09:49Z"
   },
   {
     "Zip code": "N/A",
@@ -2291,9 +2284,9 @@
   {
     "Zip code": "N/A",
     "City": "N/A",
-    "ChapterLeaderName": "Lucy Rosst\t",
-    "ChapterName": "South Lakes High School Democrats",
-    "Timestamp (EST)": "2026-01-01T23:12:24Z"
+    "ChapterLeaderName": "Gretchen Schmitt\t",
+    "ChapterName": "James Madison High School Democrats",
+    "Timestamp (EST)": "2026-01-01T23:10:34Z"
   },
   {
     "Zip code": "N/A",
@@ -2305,9 +2298,9 @@
   {
     "Zip code": "N/A",
     "City": "N/A",
-    "ChapterLeaderName": "Ari Kastello \t",
-    "ChapterName": "St. Anne's-Belfield High School Democrats ",
-    "Timestamp (EST)": "2026-01-01T23:15:31Z"
+    "ChapterLeaderName": "Lucy Rosst\t",
+    "ChapterName": "South Lakes High School Democrats",
+    "Timestamp (EST)": "2026-01-01T23:12:24Z"
   },
   {
     "Zip code": "N/A",
@@ -2315,6 +2308,13 @@
     "ChapterLeaderName": "Jovie Phelps\t",
     "ChapterName": "Auburn High School Democrats",
     "Timestamp (EST)": "2026-01-01T23:14:23Z"
+  },
+  {
+    "Zip code": "N/A",
+    "City": "N/A",
+    "ChapterLeaderName": "Ari Kastello \t",
+    "ChapterName": "St. Anne's-Belfield High School Democrats ",
+    "Timestamp (EST)": "2026-01-01T23:15:31Z"
   },
   {
     "Zip code": "N/A",
@@ -2331,13 +2331,6 @@
     "Timestamp (EST)": "2026-01-02T22:23:44Z"
   },
   {
-    "Zip code": "22901",
-    "City": "Charlottesville",
-    "ChapterLeaderName": "Penelope",
-    "ChapterName": "Charlottesville High School Young Democrats",
-    "Timestamp (EST)": "2026-01-12T21:16:36Z"
-  },
-  {
     "Zip code": "08816",
     "City": "East Brunswick",
     "ChapterLeaderName": "David Brown",
@@ -2352,11 +2345,11 @@
     "Timestamp (EST)": "2026-01-07T23:58:34Z"
   },
   {
-    "Zip code": "95820",
-    "City": "Sacramento",
-    "ChapterLeaderName": "Owen Naqica",
-    "ChapterName": "Sacramento County High School Democrats",
-    "Timestamp (EST)": "2026-01-13T17:21:50Z"
+    "Zip code": "22901",
+    "City": "Charlottesville",
+    "ChapterLeaderName": "Penelope",
+    "ChapterName": "Charlottesville High School Young Democrats",
+    "Timestamp (EST)": "2026-01-12T21:16:36Z"
   },
   {
     "Zip code": "74008",
@@ -2364,6 +2357,13 @@
     "ChapterLeaderName": "Quinton Lowry",
     "ChapterName": "Bixby High School Democrats",
     "Timestamp (EST)": "2026-01-20T16:30:51Z"
+  },
+  {
+    "Zip code": "95820",
+    "City": "Sacramento",
+    "ChapterLeaderName": "Owen Naqica",
+    "ChapterName": "Sacramento County High School Democrats",
+    "Timestamp (EST)": "2026-01-13T17:21:50Z"
   },
   {
     "Zip code": "29466",
@@ -2387,18 +2387,18 @@
     "Timestamp (EST)": "2026-01-26T19:14:51Z"
   },
   {
-    "Zip code": "46240",
-    "City": "Indianapolis",
-    "ChapterLeaderName": "Leo Sniderman",
-    "ChapterName": "Park Tudor Young Democrats",
-    "Timestamp (EST)": "2026-01-30T18:46:46Z"
-  },
-  {
     "Zip code": "60090",
     "City": "Wheeling",
     "ChapterLeaderName": "Victor Chavez Tobias",
     "ChapterName": "Wheeling High School Democrats",
     "Timestamp (EST)": "2026-02-05T23:30:11Z"
+  },
+  {
+    "Zip code": "46240",
+    "City": "Indianapolis",
+    "ChapterLeaderName": "Leo Sniderman",
+    "ChapterName": "Park Tudor Young Democrats",
+    "Timestamp (EST)": "2026-01-30T18:46:46Z"
   },
   {
     "Zip code": "45069",
@@ -2422,18 +2422,18 @@
     "Timestamp (EST)": "2026-02-05T23:24:56Z"
   },
   {
-    "Zip code": "N/A",
-    "City": "Chicago",
-    "ChapterLeaderName": "Ashanti Richardson",
-    "ChapterName": "Amundsen High School Democrats",
-    "Timestamp (EST)": "2026-02-05T23:26:23Z"
-  },
-  {
     "Zip code": "60651",
     "City": "Chicago",
     "ChapterLeaderName": "Janiya Diaz",
     "ChapterName": "Lincoln Park High School Democrats",
     "Timestamp (EST)": "2026-02-05T23:27:20Z"
+  },
+  {
+    "Zip code": "N/A",
+    "City": "Chicago",
+    "ChapterLeaderName": "Ashanti Richardson",
+    "ChapterName": "Amundsen High School Democrats",
+    "Timestamp (EST)": "2026-02-05T23:26:23Z"
   },
   {
     "Zip code": "N/A",
